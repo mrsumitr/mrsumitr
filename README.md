@@ -2,14 +2,14 @@
 
 I'm an Electronics and Communication Engineering undergrad at JNU, New Delhi, and a passionate Full-Stack Developer with a strong foundation in algorithmic problem-solving and system design. 
 
-Currently, I'm working as a Full-Stack Developer Intern at Correm Advisory India and actively preparing to contribute to open-source organizations like Sugar Labs and CHAOSS for GSoC 2026.
+Currently, I'm working as a Full-Stack Developer Intern at Correm Advisory India.
 
 ### 🚀 About Me
 - 🔭 Currently working on scalable backend microservices and full-stack development.
 - 💻 Building a Multi-Bank Financial Statement Parser using **FastAPI, PostgreSQL, RabbitMQ, and Docker**.
 - 📊 Active in competitive programming with a focus on advanced data structures and algorithms.
 - 🤝 Treasurer at the Co.L.D Coding & Info-Sec Club (SOE-JNU).
-- 📫 Reach me at: [Your Email/LinkedIn Link]
+- 📫 Reach me at: [sumitran1234@gmail.com/ https://www.linkedin.com/in/sumitr78/]
 
 ---
 
@@ -26,8 +26,8 @@ Currently, I'm working as a Full-Stack Developer Intern at Correm Advisory India
 ---
 
 ### 📈 Competitive Programming
-- **LeetCode:** Max Rating 1723 ➔ [View Profile]([Your LeetCode URL])
-- **Codeforces:** Pupil ➔ [View Profile]([Your Codeforces URL])
+- **LeetCode:** Max Rating 1723 ➔ [View Profile]([https://leetcode.com/u/sumitr78_soe/])
+- **Codeforces:** Pupil ➔ [View Profile]([https://codeforces.com/profile/mrsumit])
 
 <!-- Optional: You can use a dynamic LeetCode/Codeforces stats card here if you want live updates -->
 

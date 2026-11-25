@@ -26,7 +26,7 @@ Currently, I'm working as a Full-Stack Developer Intern at Correm Advisory India
 ---
 
 ### 📈 Competitive Programming
-- **LeetCode:** Max Rating 1723 ➔ [View Profile]([https://leetcode.com/u/sumitr78_soe/])
+- **LeetCode:** Max Rating 1827 ➔ [View Profile]([https://leetcode.com/u/sumitr78_soe/])
 - **Codeforces:** Pupil ➔ [View Profile]([https://codeforces.com/profile/mrsumit])
 
 <!-- Optional: You can use a dynamic LeetCode/Codeforces stats card here if you want live updates -->
